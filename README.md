@@ -7,6 +7,7 @@ start I recommend you [Rust By example](https://doc.rust-lang.org/stable/rust-by
 - [The Rust Programming Language](https://doc.rust-lang.org/book/)
 - [The Cargo Book](https://doc.rust-lang.org/cargo/)
 - [Rust By example](https://doc.rust-lang.org/stable/rust-by-example/)
+- [This Week in Rust](https://this-week-in-rust.org/)
 
 # Quickstart
 ```
