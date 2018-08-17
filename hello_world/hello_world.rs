@@ -4,7 +4,7 @@ fn main() {
   let john = "John Doe";
 
   // println! is a macro for writing to standard output
-  println!("My name is {}", john);
+  println!("Hello world! My name is {}", john);
 
   // a mutable variable
   let mut jane = "Jane";
