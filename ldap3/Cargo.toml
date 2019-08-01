@@ -1,0 +1,14 @@
+[package]
+name = "ldap-test"
+version = "0.1.0"
+authors = ["theredfish <did.julian@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+actix-web = "1.0"
+actix = "0.8.3"
+ldap3 = "0.6"
+dotenv = "0.14"
+log = "0.4"
+env_logger = "0.6"
+crossbeam-channel = "0.3"
